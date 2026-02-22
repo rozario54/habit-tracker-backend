@@ -1,0 +1,31 @@
+{
+  "habits": [
+    {
+      "id": "1",
+      "title": "Morning Meditation",
+      "description": "10 minutes of mindfulness to start the day.",
+      "frequency": "Daily",
+      "target": 1,
+      "completed": 1,
+      "createdAt": "2026-02-22T21:53:21+05:30"
+    },
+    {
+      "id": "2",
+      "title": "Read a Book",
+      "description": "Read at least 20 pages of a non-fiction book.",
+      "frequency": "Daily",
+      "target": 1,
+      "completed": 1,
+      "createdAt": "2026-02-22T21:53:21+05:30"
+    },
+    {
+      "id": "e7d6a6b3-a26c-48f1-b9d5-7e8fd016b01c",
+      "title": "running",
+      "description": "",
+      "frequency": "Weekly",
+      "target": 1,
+      "completed": 1,
+      "createdAt": "2026-02-22T16:30:52.064Z"
+    }
+  ]
+}
